@@ -1,4 +1,4 @@
-
+from getgauge.python import step
 @step("step101")
 def stepname_101():
 	assert 1==1
